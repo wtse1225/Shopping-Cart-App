@@ -9,11 +9,11 @@
 ![image](https://github.com/wtse1225/Shopping-Cart-App/assets/105259859/8e9c8b7f-fd03-400b-b3f4-c32e93a54b0e)
 
 ### Technologies Used:
-Java
-JavaFX
-Java Multi-Threading
-Java Networking
-Java Servlets
+Java, 
+JavaFX, 
+Java Multi-Threading, 
+Java Networking, 
+Java Servlets, 
 Database (mySQL)
 
 ### Objective:
